@@ -1,1 +1,3 @@
 # Scratch1
+
+A játék célja egyszerű, rá kell kattintani a macska sprite-ra. Minden sikeres kattintással elhangzik egy hangeffekt és egy pontot szerez a játékos. A játék végtelen sokáig mehet, a lehető legtöbb pont megszerzése a cél. Ezt nehezíti az hogy minden sikeres kattintás után a sprite-ok véletlenszerűen szétszóródnak. Továbbá kattintásokon kívül is mozognak a sprite-ok bizonyos időközönként, amely egyre csökken minél több pontot szerez a  játékos (de nem mehet 1 másodperc alá). Csak akkor ér véget a játék, ha a játékos véletlenül rákattint valamely másik sprite-ra, ekkor a sprite egy "game over" üzenettel és egy különböző hangeffekttel jelzi a vereséget.
